@@ -1,0 +1,3 @@
+[]
+[temperature,sick,muscle_pain]
+[temperature,sick,muscle_pain,fever,flu,infection]
